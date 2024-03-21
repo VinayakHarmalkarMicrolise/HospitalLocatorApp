@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HospitalLocatorApp.Hospital">
+    <Position X="2" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAADAAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalLocatorApp.Slot">
+    <Position X="4.25" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Slot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalLocatorApp.HospitalFinder">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>HospitalFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalLocatorApp.TestDataGenerator">
+    <Position X="8" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>TestDataGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
